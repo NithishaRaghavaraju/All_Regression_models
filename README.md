@@ -1,4 +1,4 @@
-# All_Regression_models
+# All_Regression_Algorithms
 Objective of this work is to provide different kinds of regression models. This helps to choose best model by running through all models
 
 List of different models used in this code
